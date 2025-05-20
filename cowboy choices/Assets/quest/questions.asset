@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b27046d56ad23c249b71416acb8d2d08, type: 3}
+  m_Name: questions
+  m_EditorClassIdentifier: 
+  quest: 
+  inc1: 0
+  inc2: 0
+  dec1: 0
+  dec2: 0
+  inc3: 0
+  dec3: 0
+  inc4: 0
+  dec4: 0
