@@ -21,6 +21,8 @@ public class QuestManager : MonoBehaviour
     {
         rastgeleSoru = quest[Random.Range(0, quest.Count)];
         descript.text = rastgeleSoru.description;
+        b1.onClick.RemoveAllListeners();
+        b2.onClick.RemoveAllListeners();
         b1.onClick.AddListener(rastgeleSoru.doit);
         b2.onClick.AddListener(rastgeleSoru.doit2);
     }

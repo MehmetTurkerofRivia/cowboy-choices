@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 610eb4418195c9d4b9795a5711643f4e, type: 3}
   m_Name: q4
   m_EditorClassIdentifier: 
-  description: 
-  change_do_it_money: 0
-  change_do_it_honor: 0
-  change_dont_money: 0
-  change_dont_honor: 0
+  description: Play poker
+  change_do_it_money: -50
+  change_do_it_honor: 15
+  change_dont_money: 5
+  change_dont_honor: -10
