@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 610eb4418195c9d4b9795a5711643f4e, type: 3}
   m_Name: q1
   m_EditorClassIdentifier: 
-  description: 
+  description: "ismaile g\xF6tten girilsinmi"
   inc1: 0
   inc2: 0
   dec1: 0
