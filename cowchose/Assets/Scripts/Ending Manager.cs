@@ -11,7 +11,7 @@ public class EndingManager : MonoBehaviour
     public void Restart()
     {
         GameManager.honor = 50;
-        GameManager.money = 50;
+        GameManager.money = 150;
         SceneManager.LoadScene(0);
     }
 
