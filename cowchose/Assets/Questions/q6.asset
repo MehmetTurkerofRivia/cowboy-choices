@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 610eb4418195c9d4b9795a5711643f4e, type: 3}
-  m_Name: q1
+  m_Name: q6
   m_EditorClassIdentifier: 
-  description: dilenciye para ver
-  change_do_it_money: -10
-  change_do_it_honor: 5
+  description: 
+  change_do_it_money: 0
+  change_do_it_honor: 0
   change_dont_money: 0
-  change_dont_honor: -5
+  change_dont_honor: 0

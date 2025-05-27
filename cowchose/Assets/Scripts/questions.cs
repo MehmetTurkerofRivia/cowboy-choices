@@ -5,31 +5,19 @@ using UnityEngine;
 public class questions : ScriptableObject
 {
     public string description;
-    public int inc1;
-    public int inc2;
-    public int dec1;
-    public int dec2;
+    public int change_do_it_money;
+    public int change_do_it_honor;
 
-    public int inc3;
-    public int dec3;
-    public int inc4;
-    public int dec4;
-
+    public int change_dont_money;
+    public int change_dont_honor;
     public void doit()
     {
-        GameManager.money +=inc1;
-        GameManager.honor +=inc2;
-
-        GameManager.money -=dec1;
-        GameManager.honor -=dec2;
+        GameManager.money += change_do_it_money;
+        GameManager.honor += change_do_it_honor;
     }
-
     public void doit2()
     {
-        GameManager.money += inc3;
-        GameManager.honor += inc4;
-
-        GameManager.money -= dec3;
-        GameManager.honor -= dec4;
+        GameManager.money += change_dont_money;
+        GameManager.honor += change_dont_honor;
     }
 }
