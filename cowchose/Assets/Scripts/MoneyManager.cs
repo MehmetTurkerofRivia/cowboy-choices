@@ -11,7 +11,7 @@ public class MoneyManager : MonoBehaviour
         moneyText.text = GameManager.money.ToString() + " $";
 
         if (GameManager.money < 60)
-            moneyText.color = Color.red;
+            moneyText.color = Color.darkRed;
         else
             moneyText.color = Color.white;
     }
