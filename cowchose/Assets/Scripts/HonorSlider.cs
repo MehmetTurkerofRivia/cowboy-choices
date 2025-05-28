@@ -8,14 +8,4 @@ public class HonorSlider : MonoBehaviour
     {
         slider.value = (GameManager.honor) / 100f;
     }
-
-    public void increaseHonor()
-    {
-        GameManager.honor += 5;
-    }
-
-    public void decreaseHonor()
-    {
-        GameManager.honor -= 5;
-    }
 }
