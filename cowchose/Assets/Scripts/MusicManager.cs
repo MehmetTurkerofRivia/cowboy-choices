@@ -12,7 +12,7 @@ public class MusicManager : MonoBehaviour
         audioSource = gameObject.AddComponent<AudioSource>();
         audioSource.loop = false;
         audioSource.playOnAwake = false;
-        audioSource.volume = 0.5f;
+        audioSource.volume = 0.2f;
     }
 
     void Start()

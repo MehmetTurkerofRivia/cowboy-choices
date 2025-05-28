@@ -2609,7 +2609,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 396a486df51b35746b70c9ee5dc2ec6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicClips: []
+  musicClips:
+  - {fileID: 8300000, guid: 2f0675145ec438f4499b697447f22e43, type: 3}
+  - {fileID: 8300000, guid: 58cedf7eb85db6241a5a17300306358b, type: 3}
+  - {fileID: 8300000, guid: 362bac49c19433b4a9b244506288b7c6, type: 3}
+  - {fileID: 8300000, guid: e67b1b05c614119468c88f497dc10aef, type: 3}
+  - {fileID: 8300000, guid: 5f8edc509a02e424fa3ce98ac15e275d, type: 3}
+  - {fileID: 8300000, guid: 0e875a2c63961e343b57367d9994c07b, type: 3}
+  - {fileID: 8300000, guid: dc82d3319114d024e8e083e4a9852aeb, type: 3}
+  - {fileID: 8300000, guid: 099c047c3da701d4495c32c492bb23ae, type: 3}
 --- !u!1 &1816995829
 GameObject:
   m_ObjectHideFlags: 0
