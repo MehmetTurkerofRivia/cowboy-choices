@@ -1,0 +1,12 @@
+# ninja log v5
+141	400	7896061274694480	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f43198d0fec1cc31
+402	1214	7896061282133594	D:/Game Projects/Cowboy Choise/cowboy-choices/cowchose/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1g2x5t49/obj/arm64-v8a/libswappywrapper.so	ef39f1315a767ab2
+75	3122	7896061301826221	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c0237ca3335e62a0
+12	3242	7896061302289520	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e9af62973bc22193
+22	3260	7896061303137132	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d0a6babacb208001
+111	3283	7896061302935646	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2d1d21458f0cef54
+34	3305	7896061303222984	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	44a51f747c280ec2
+91	3389	7896061304508808	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c8ca163215331866
+1	3641	7896061306972389	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	78f79e8c95e346aa
+56	3664	7896061307148663	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4493ecc29369215e
+3664	3838	7896061309007363	D:/Game Projects/Cowboy Choise/cowboy-choices/cowchose/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1g2x5t49/obj/arm64-v8a/libgame.so	e73cb3fa28090ab0
